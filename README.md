@@ -37,5 +37,4 @@ Como o projeto utiliza apenas tecnologias front-end padrão, não é necessário
 - [ ] Implementar `localStorage` para salvar as alterações do usuário no navegador.
 - [ ] Adicionar suporte a Modo Escuro (Dark Mode).
 - [ ] Permitir exportação do cronograma em formato PDF.
-</html>
 
